@@ -7,3 +7,5 @@
 * version 3.0 do not allow user to go next without answering SAM; show the ArtEmis prediction; and, store SAM answers into the data file.
 
 * version 4.0 logger capabilities to track errors in using Insight Headset
+
+* version 4.1 it is possible to select the folder were local data will be stored; extra log messages added.
