@@ -19,8 +19,8 @@
 
 * jADAS version 6.0 connect to Emotiv, save data, shows participant stimiuli (both ArtEmis or Chatbot UX).
 
-##
 <br/>
+##
 
 
 > [!IMPORTANT]
