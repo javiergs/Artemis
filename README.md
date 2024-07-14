@@ -1,3 +1,8 @@
+
+> [!IMPORTANT]
+> Both Artemis and Chatbot projects please test version 6.0
+
+
 # Artemis Project
 
 * jADAS version 1.0 add SAM new pictures and selection capabilities
@@ -22,5 +27,3 @@
 ##
 <br/>
 
-> [!IMPORTANT]
-> Both Artemis and Chatnot projects please test version 6.0
