@@ -8,8 +8,8 @@
 
 * jADAS version 4.0 logger capabilities to track errors in using Insight Headset
 
-> [!IMPORTANT]
-> jADAS version 4.1 it is possible to select the folder were local data will be stored; extra log messages added.
+* jADAS version 4.1 it is possible to select the folder were local data will be stored; extra log messages added.
+
 
 # Chatbot UX Project
   
@@ -17,5 +17,7 @@
 
 * jADAS version 5.0 connect to Emotiv, save data, shows participant stimiuli (both ArtEmis or Chatbot UX). Testing a new Look&Feel
 
-* **jADAS version 6.0 connect to Emotiv, save data, shows participant stimiuli (both ArtEmis or Chatbot UX).**
+* jADAS version 6.0 connect to Emotiv, save data, shows participant stimiuli (both ArtEmis or Chatbot UX).
 
+> [!IMPORTANT]
+> Both Artemis and Chatnot projects please test version 6.0
