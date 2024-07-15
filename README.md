@@ -33,6 +33,6 @@
 > Both Artemis and Chatbot projects please test version 6.0
 
 
-'''
+```
 sudo spctl --master-disable
-'''
+```
