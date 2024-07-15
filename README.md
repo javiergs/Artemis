@@ -29,10 +29,5 @@
 ##
 
 
-> [!IMPORTANT]
-> Both Artemis and Chatbot projects please test version 6.0
-
-
-```
-sudo spctl --master-disable
-```
+> [!NOTE]
+> Temporal solution for Unidentified Developer on managed macOSX ```sudo spctl --master-disable```
