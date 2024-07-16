@@ -30,5 +30,4 @@
 
 
 > [!NOTE]
-> Temporal solution for Unidentified Developer on managed macOSX ```sudo spctl --master-disable
-> sudo spctl --master-enable```
+> Temporal solution for Unidentified Developer on managed macOSX ```sudo spctl --master-disable```
