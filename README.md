@@ -13,7 +13,9 @@
 
 * jADAS version 4.1 it is possible to select the folder were local data will be stored; extra log messages added.
 
-* **jADAS-ArtEmis version 7.0** New GUI; Doubled speed; First version as dependency module
+* jADAS-ArtEmis version 7.0 has a new GUI; Doubled speed; First version as dependency module
+
+* **jADAS-ArtEmis version 7.1** license approval updated
 
 # Chatbot UX Project
   
