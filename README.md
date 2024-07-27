@@ -17,7 +17,7 @@
 
 * jADAS-ArtEmis version 7.1 license approval updated
 
-* **jADAS-ArtEmis version 7.2** update to handshake pro; detect device mode/type; and separate storage in diverse files per participant.
+* **jADAS-ArtEmis version 7.2** update to handshake pro; detect device mode/type; and separate storage in diverse files.
 
 # Chatbot UX Project
   
@@ -27,6 +27,9 @@
 
 * jADAS version 6.0 connect to Emotiv, save data, shows participant stimiuli (both ArtEmis or Chatbot UX).
 
+* **ChatClient version 2.0** update to be used with a server version 7.2
+
+* **jADAS version 7.2** new GUI; updated license; handshake pro; first version with dependency module; separate storage in diverse files.
 <br/>
 
 
