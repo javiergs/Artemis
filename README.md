@@ -15,7 +15,9 @@
 
 * jADAS-ArtEmis version 7.0 has a new GUI; Doubled speed; First version as dependency module
 
-* **jADAS-ArtEmis version 7.1** license approval updated
+* jADAS-ArtEmis version 7.1 license approval updated
+
+* **jADAS-ArtEmis version 7.2** update to handshake pro; detect device mode/type; and separate storage in diverse files per participant.
 
 # Chatbot UX Project
   
